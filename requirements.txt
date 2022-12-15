@@ -13,10 +13,7 @@ numpy==1.22.3
 packaging==21.3
 pickleshare==0.7.5
 psutil==5.9.0
-tensorflow==2.11.0
-tensorflow-estimator==2.11.0
 tensorflow-cpu==2.11.0
-tensorflow-io-gcs-filesystem==0.25.0
 termcolor==1.1.0
 pyzmq==22.3.0
 requests==2.27.1
